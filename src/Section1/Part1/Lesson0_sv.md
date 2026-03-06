@@ -18,7 +18,7 @@ Japanska har två generella formationer. Nästan varje mening kommer komma i for
 En annan specifik egenskap i japanskan är att det är ett pronomen-utelämnande (ö.a. *pro-drop* på engelska) språk. Det vill säga att allt som kan antydas eller begripas från sammanhanget kan utelämnas. Till exempel, om det är uppenbart vem som är subjektet, så behöver vi inte ange det igen. "Äpple äta" är en helt korrekt mening, så länge som vi vet att subjektet är "jag".
 
 
-Detta är så för att japanskan är ett "ämnes"-drivet språk. De flesta japanska konversationer börjar med att introducera det som talas om, och sedan tillägga fler detaljer med varje nytt påstående som hänvisar tillbaka till ämnet. När fokuset ändra, byter vi ämne genom att lyfta fram ett nytt. Att kunna identifiera och hålla koll på hur ämnet ändras är fundamentalt för att kunna få en bra "tolkning" av en mening.
+Detta är så för att japanskan är ett "ämnes"-drivet språk. De flesta japanska konversationer börjar med att introducera det som talas om, och sedan tillägga fler detaljer med varje nytt påstående som hänvisar tillbaka till ämnet. När fokuset ändras, byter vi ämne genom att lyfta fram ett nytt. Att kunna identifiera och hålla koll på hur ämnet ändras är fundamentalt för att kunna få en bra "tolkning" av en mening.
 
 <pre>
 Svenska: "Jag åt ett äpple och drack sedan lite vatten. Vad gjorde du?"
