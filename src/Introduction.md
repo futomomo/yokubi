@@ -4,7 +4,7 @@ Välkommen till **Yokubi**!
 
 Den **Gemensamma** Grammatikguiden.
 
-*Tillägnad alla de som lär sig, vill lära sig, och *kommer* att lära sig.
+*Tillägnad alla de som lär sig, vill lära sig, och **kommer** att lära sig.*
 
 <div class="warning">
 Denna guide är en fullständig omskriven och omordnad version av <a href="https://sakubi.neocities.org/">grammatikguiden Sakubi</a>. Omskrivning är <b>ännu inte färdig</b>, men det huvudsakliga innehållet och guiden är klara.
