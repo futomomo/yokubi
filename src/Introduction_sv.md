@@ -16,4 +16,4 @@ Du är välkommen att gå med i vår [discord-gemenskap](https://discord.gg/KZj4
 
 Om du vill bidra, kan du besöka projektet [på github](https://github.com/Morgawr/yokubi) och skicka in felanmälningar och pull-begäran.
 
-Hoppa **INTE** över att läsa [Innan du börjar](./Before-you-begin.md) och [Inledning](./Preamble.md). De ger dig anvisningar för hur du nyttjar denna guide.
+Hoppa **INTE** över att läsa [Innan du börjar](./Before-you-begin_sv.md) och [Inledning](./Preamble_sv.md). De ger dig anvisningar för hur du nyttjar denna guide.
