@@ -15,7 +15,7 @@ Om du behöver mer vägledning för något annat än grammatik, testa [slingan (
 
 ![][image1]
 
-## Hur du använder denna guide för att lära dig japanska
+## Hur du använder dig av denna guide för att lära dig japanska
 
 Denna guide är, rätt och slätt, en nybörjarbok. Den tar en väldigt specifik ställning: Det enda sättet att förvärva språkegenskaper och bli verbal är att konsumera dem i ett verkligt sammanhang. Den här guiden kommer inte drilla det, och det är en positiv sak.
 
