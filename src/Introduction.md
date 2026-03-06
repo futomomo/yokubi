@@ -1,19 +1,19 @@
 ![logo](images/logo.svg)
 
-Welcome to **Yokubi**!
+Välkommen till **Yokubi**!
 
-The **Common** Grammar Guide.
+Den **Gemensamma** Grammatikguiden.
 
-*Dedicated to all those who learn, want to learn, and **will** learn.* 
+*Tillägnad alla de som lär sig, vill lära sig, och *kommer* att lära sig.
 
 <div class="warning">
-This guide is a complete re-write and re-arrangement of <a href="https://sakubi.neocities.org/">the Sakubi grammar guide</a>. The full rewrite is <b>still not finished</b>, but the main content and guide are done.
+Denna guide är en fullständig omskriven och omordnad version av <a href="https://sakubi.neocities.org/">grammatikguiden Sakubi</a>. Omskrivning är <b>ännu inte färdig</b>, men det huvudsakliga innehållet och guiden är klara.
 </div>
 
-Yokubi is an **open** and **community-maintained** project. We accept all kinds of helpful contributions. 
+Yokubi är ett **öppet** och **gemenskapsunderhållet** projekt. Vi accepterar alla sorters hjälpsamma bidrag.
 
-You are welcome to join our [discord community](https://discord.gg/KZj4dVFDzu) for feedback, comments, reviews, or just to chat. 
+Du är välkommen att gå med i vår [discord-gemenskap](https://discord.gg/KZj4dVFDzu) för återkoppling, kommentarer, granskningar, eller bara för att samtala.
 
-If you want to contribute, you can view the project [on github](https://github.com/Morgawr/yokubi) and file issues and pull requests. 
+Om du vill bidra, kan du besöka projektet [på github](https://github.com/Morgawr/yokubi) och skicka in felanmälningar och pull-begäran.
 
-**DO NOT** skip reading the [Before you begin](./Before-you-begin.md) and [Preamble](./Preamble.md) pages. They give you instructions on how to use this guide.
+Hoppa **INTE** över att läsa [Innan du börjar](./Before-you-begin.md) och [Inledning](./Preamble.md). De ger dig anvisningar för hur du nyttjar denna guide.
