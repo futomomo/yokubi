@@ -4,7 +4,7 @@ När du tar dig an studier av ett nytt språk, speciellt ett som japanska, som i
 
 Oavsett vad, om du inte kan "tolka" en mening, så kommer du inte förstå dess betydelse. Om du inte förstår dess betydelse, kan du inte förvärva dig språket som använts i den. Denna lektion kommer ge dig en kort genomgång av vad du kan förvänta dig av att uppnå grundläggande "tolknings"-förmågor.
 
-Japanska är ett SOV-språk (Subjekt-Objekt-Verb), till skillnad från Svenska som är ett SVO-pråk (Subjekt-Verb-Objekt).
+Japanska är ett SOV-språk (Subjekt-Objekt-Verb), till skillnad från Svenska som är ett SVO-språk (Subjekt-Verb-Objekt).
 
 <pre>
 Svenska: Jag äter (ett) äpple
