@@ -1,7 +1,7 @@
 # Yokubi 
 
-Yokubi is a Japanese grammar guide for beginners and new learners.
+Yokubi är en japansk grammatikguide för nybörjare och nya lärande.
 
-View the project at [yoku.bi](https://yoku.bi).
+Se projektet på [yoku.bi](https://yoku.bi).
 
-Contribute by joining our [discord community](https://discord.gg/KZj4dVFDzu)
+Bidra genom att gå med i vår [discord-gemenskap](https://discord.gg/KZj4dVFDzu)
