@@ -1,4 +1,4 @@
-# Japanska meningars  anatomi
+# Japanska meningars anatomi
 
 När du tar dig an studier av ett nytt språk, speciellt ett som japanska, som inte använder sig av blanksteg för att skilja mellan ord, kommer ditt största problem bli att felfritt separera de olika delarna av meningen för att lättare bryta ner och förstå dem. Vi kallar denna aktivitet för "tolkning".
 
