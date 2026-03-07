@@ -1,18 +1,18 @@
 # Substantiv, pronomen
 
-Japanskan har substantiv (名詞) och pronomen (代名詞), precis som svenskan. Pronomen är mindre speciella än i svenskan, och agerar mestadels precis som vanliga substantiv.
+Japanskan har substantiv (名詞) och pronomen (代名詞), precis som engelskan. Pronomen är mindre speciella än i engelskan, och agerar mestadels precis som vanliga substantiv.
 
 För det mesta, så skiljer inte japanskan mellan singularis och pluralis. Substantiv och verb behöver inte anpassas efter pluralitet, person, eller genus. Japanskan kan explicit referra till en grupp genom att lägga till vissa suffixer, men ingen av dem är ett sant pluralis. De används oftast för att uttrycka extra information som vanliga plural inte har.
 
-Japanskan har en stor mängd personliga pronomen (jag, mig, dem) som svenskan inte har, men de demonstrativa pronomen (denna, det, dessa, dem) är mycket mindre oregelbundna. Utöver det, behöver japanskans pronomen aldrig ändra form för kasus som i svenskan (jämför *han* och *honom*). Du kan helt enkelt bara lägga till suffix efter dem.
+Japanskan har en stor mängd personliga pronomen (jag, mig, dem) som engelskan inte har, men de demonstrativa pronomen (denna, det, dessa, dem) är mycket mindre oregelbundna. Utöver det, behöver japanskans pronomen aldrig ändra form för kasus som i engelskan (jämför *han* och *honom*). Du kan helt enkelt bara lägga till suffix efter dem.
 
 Här är några exempel. Bry dig inte om att memorera dessa ordlistor. Lär dig ord utanför denna guide.
 
 <pre>
 私・わたし jag (normalt, lite formellt när män använder det)
-あたし me (ledigt, feminint)
-俺・おれ me (ledigt, maskulint)
-僕・ぼく me (ledigt eller formellt, maskulint)
+あたし jag (ledigt, feminint)
+俺・おれ jag (ledigt, maskulint)
+僕・ぼく jag (ledigt eller formellt, maskulint)
 彼・かれ han
 彼女・かのじょ hon
 あなた du
@@ -28,7 +28,7 @@ Som tidigare nämnt, så behöver japanskan inte skilja mellan singularis och pl
 
 達 används vanligtvis för levande ting, och användningen tillsammans med "pennan" ovan är ett vardagsuttryck, eller åtminstone informellt. Det kommer upp bara upp ofta nog att det är värt att nämna.
 
-Japanska har sammansättningar som fungerar precis som de gör i svenskan.
+Japanska har sammansättningar som fungerar precis som de gör på engelska.
 
 <pre>
 町・まち stad, distrikt
@@ -36,7 +36,7 @@ Japanska har sammansättningar som fungerar precis som de gör i svenskan.
 町中・まちなか i city, mitten av staden
 </pre>
 
-Japanskan har prefix och suffix precis som svenskan. Dessa skiljer sig från sammansättningar i det att de inte kan finnas på egen hand utan måste vara kopplat till något.
+Japanskan har prefix och suffix precis som engelskan. Dessa skiljer sig från sammansättningar i det att de inte kan finnas på egen hand utan måste vara kopplat till något.
 
 <pre>
 研究・けんきゅう forskning
