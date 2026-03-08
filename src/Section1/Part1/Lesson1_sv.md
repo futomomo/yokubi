@@ -4,16 +4,14 @@ Låt oss börja från meningar i formen "A är B". Japanska har två grundlägga
 
 De två kopulan i japanska är だ och です. です är mer artigt än だ. Trots att de båda är kopula, så är deras användning flexibel och ibland helt frivillig; du kan hoppa över dem helt och fortfarande antyda ett sorts "A är B"-förhållande i dina meningar. Speciellt だ utesluts ofta i slutet av meningar i modern talad japanska.
 
-Till skillnad från engelska, så placeras tillstånds-ordet **efter** ordet som du använder för att beskriva något, hellre än före det. Vi kommer se att detta gäller de flesta bestämningsord i japanskan: de gäller för ordet på deras **vänster**.
+Till skillnad från svenska, så placeras tillstånds-ordet **efter** ordet som du använder för att beskriva något, hellre än före det. Vi kommer se att detta gäller de flesta bestämningsord i japanskan: de gäller för ordet på deras **vänster**.
 
 <pre>
 ペンだ。
-It's a pen.
-(Det är en penna.)
+Det är en penna.
 
 ネコです。
-It's a cat.
-(Det är en katt.)
+Det är en katt.
 </pre>
 
 Skillnaden mellan だ och です handlar generellt om artighet och formalitet. En sak att lägga på minnet är att medan です är den artiga versionen av だ, så är de inte alltid inbördes utbytbara och har många skilda användningsområden. Du kan inte alltid fritt byta ut だ till です (eller vice versa). Du kommer lära dig några av användningarna i senare lektioner.

@@ -4,10 +4,9 @@ När du tar dig an studier av ett nytt språk, speciellt ett som japanska, som i
 
 Oavsett vad, om du inte kan "tolka" en mening, så kommer du inte förstå dess betydelse. Om du inte förstår dess betydelse, kan du inte förvärva dig språket som använts i den. Denna lektion kommer ge dig en kort genomgång av vad du kan förvänta dig av att uppnå grundläggande "tolknings"-förmågor.
 
-Japanska är ett SOV-språk (Subjekt-Objekt-Verb), till skillnad från engelska som är ett SVO-språk (Subjekt-Verb-Objekt).
+Japanska är ett SOV-språk (Subjekt-Objekt-Verb), till skillnad från svenska som är ett SVO-språk (Subjekt-Verb-Objekt).
 
 <pre>
-English: I eat (an) apple
 Svenska: Jag äter (ett) äpple
 Japanska: Jag äpple äter
 </pre>
@@ -22,9 +21,8 @@ En annan specifik egenskap i japanskan är att det är ett pronomen-utelämnande
 Detta är så för att japanskan är ett "ämnes"-drivet språk. De flesta japanska konversationer börjar med att introducera det som talas om, och sedan tillägga fler detaljer med varje nytt påstående som hänvisar tillbaka till ämnet. När fokuset ändras, byter vi ämne genom att lyfta fram ett nytt. Att kunna identifiera och hålla koll på hur ämnet ändras är fundamentalt för att kunna få en bra "tolkning" av en mening.
 
 <pre>
-English: "I ate an apple then drank some water. What did you do?"
 Svenska: "Jag åt ett äpple och drack sedan lite vatten. Vad gjorde du?"
 Japanska: "<b>Berörande mig</b>, äpple åt. Senare, vatten drack. <b>Berörande dig</b>?"
 </pre>
 
-Det låter som ett helt baklänges stenåldersspråk, men det är just för att representera japansk struktur på engelska är otroligt fjantigt. Detta är det enda exemplet i hela guiden där vi skriver onaturlig engelska som jämförelse med japanska. Du borde inte tänka på japanskan så här. Du måste tänka på japanskan på japanska, för att japanska är inte engelska.
+Det låter som ett helt baklänges stenåldersspråk, men det är just för att representera japansk struktur på svenska är otroligt fjantigt. Detta är det enda exemplet i hela guiden där vi skriver onaturlig svenska som jämförelse med japanska. Du borde inte tänka på japanskan så här. Du måste tänka på japanskan på japanska, för att japanska är inte svenska.
